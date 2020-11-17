@@ -1,7 +1,7 @@
 # Object Tracking using OpenCV
 
 ## Demo
-https://github.com/hmgtech/Object-Tracing-with-OpenCV/blob/main/ezgif.com-video-to-gif.gif
+<img src="https://github.com/hmgtech/Object-Tracing-with-OpenCV/blob/main/ezgif.com-video-to-gif.gif">
 
 
 
